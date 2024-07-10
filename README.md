@@ -19,27 +19,10 @@ This project focuses on trajectory prediction using various models. It leverages
 # Setup
 ## Create a Virtual Environment
 To ensure the correct dependencies are installed, it's recommended to create a virtual environment. Run the following commands:
-
-```bash
-python -m venv env
-source env/bin/activate   # On Windows use `env\Scripts\activate`
-
-## Install Dependencies
-
-Certainly! Here's a README for your GitHub repository on trajectory prediction:
-
-Trajectory Prediction Project
-Overview
-This project focuses on trajectory prediction using various models. It leverages the KITTI dataset for training and evaluation, and provides tools for visualizing the predicted trajectories.
-
-## Setup
-Create a Virtual Environment
-To ensure the correct dependencies are installed, it's recommended to create a virtual environment. Run the following commands:
-
 bash
-Copy code
 python -m venv env
 source env/bin/activate   # On Windows use `env\Scripts\activate`
+
 ## Install Dependencies
 Install the necessary Python packages using pip:
 pip install -r requirements.txt
