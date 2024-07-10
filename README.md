@@ -18,7 +18,7 @@ This project focuses on trajectory prediction using various models. It leverages
 ## Create a Virtual Environment
 To ensure the correct dependencies are installed, it's recommended to create a virtual environment. Run the following commands:<br>
 `python -m venv env`<br>
-`source env/bin/activate'   # On Windows use `env\Scripts\activate`<br>
+`source env/bin/activate`   # On Windows use `env\Scripts\activate`<br>
 ## Install Dependencies
 Install the necessary Python packages using pip:<br>
 `pip install -r requirements.txt`<br>
@@ -32,7 +32,7 @@ To train and evaluate your model, run the train.py script. You can choose betwee
 - Or your custom model<be>
 
 ### Run the script using:
-python train.py
+`python train.py`
 ## Plotting Trajectories
 To visualize the predicted trajectories, run the plot_trajectory.py script:<br>
 `python plot_trajectory.py`<br>
