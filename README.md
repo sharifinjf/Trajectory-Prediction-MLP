@@ -13,7 +13,7 @@ Red: Shows the predicted future trajectory based on the model<br>
 ## Overview
 This project focuses on trajectory prediction using various models. It leverages the KITTI dataset for training and evaluation and provides tools for visualizing the predicted trajectories.
 
-The codes are based on codes of the trajectory prediction shared by https://github.com/fedebecat and is modified to address our desired goals.
+The codes are based on codes of the trajectory prediction shared by https://github.com/fedebecat and are modified to address our desired goals.
 
 # Setup
 ## Create a Virtual Environment
