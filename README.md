@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
-<td style="border: none;"> -  More text can go here </td>
+<td style="border: none;"> -More text can go here </td>
 <td><img src="/Images/video_vehicle_107.png" alt="Alt text 1" width="600"/></td>
 <td>    </td>
 </tr>
