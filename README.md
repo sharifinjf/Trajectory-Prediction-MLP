@@ -19,9 +19,11 @@ This project focuses on trajectory prediction using various models. It leverages
 # Setup
 ## Create a Virtual Environment
 To ensure the correct dependencies are installed, it's recommended to create a virtual environment. Run the following commands:
-bash
-python -m venv env
-source env/bin/activate   # On Windows use `env\Scripts\activate`
+
+
+'python -m venv env'
+
+'source env/bin/activate'   # On Windows use `env\Scripts\activate`
 
 ## Install Dependencies
 Install the necessary Python packages using pip:
