@@ -14,7 +14,7 @@ Green: Indicates the ground truth path the object followed
 Red: Shows the predicted future trajectory based on the model
 
 # Trajectory Prediction Project
-# Overview
+## Overview
 This project focuses on trajectory prediction using various models. It leverages the KITTI dataset for training and evaluation and provides tools for visualizing the predicted trajectories.
 # Setup
 # Create a Virtual Environment
