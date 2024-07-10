@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <span style="color: Blue;">Blue: Represents the past trajectory of the object </span> = Past<br>
+      <span style="color: Blue;">Blue: Represents the past trajectory of the object <br>
       <span style="color: green;">Green</span> = Ground truth<br>
       <span style="color: red;">Red</span> = Predict
     </td>
