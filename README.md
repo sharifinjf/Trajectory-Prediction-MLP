@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td style="border: none;">[**Your text goes here**] </td>
-<td><src="/Images/video_vehicle_107.png" alt="Alt text 1" width="600"/></td>
+<td><img src="/Images/video_vehicle_107.png" alt="Alt text 1" width="600"/></td>
 <td>    </td>
 </tr>
 <tr>
