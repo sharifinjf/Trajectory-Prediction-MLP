@@ -4,7 +4,6 @@
 <img src="/Images/video_vehicle_107.png" alt="Second Gift Image" width="700"/> 
 <img src="/Images/Demo.gif" alt="First Gift Image" width="700"/>
 </p>
-
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td style="border: none;">[**Your text goes here**] </td>
