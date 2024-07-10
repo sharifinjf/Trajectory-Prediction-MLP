@@ -14,7 +14,6 @@
 <td>    </td>
 </tr>
 </table>
-
-•  Red Text
-
-+ Green Text
+<p><font color="blue">Blue</font> = Past</p>
+<p><font color="green">Green</font> = Ground truth</p>
+<p><font color="red">Red</font> = Predict</p>
