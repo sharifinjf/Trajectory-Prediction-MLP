@@ -5,8 +5,6 @@
 <img src="/Images/Demo.gif" alt="Alt text" width="800" height="600"/>
 </p>
 
-
-
 Blue: Represents the past trajectory of the object <br>
 Green: Indicates the ground truth path the object followed<br>
 Red: Shows the predicted future trajectory based on the model<br>
@@ -15,7 +13,7 @@ Red: Shows the predicted future trajectory based on the model<br>
 ## Overview
 This project focuses on trajectory prediction using various models. It leverages the KITTI dataset for training and evaluation and provides tools for visualizing the predicted trajectories.
 
-The codes are based on codes of the trajecotroy prediction shared by https://github.com/fedebecat and is modified to address our desired goals.
+The codes are based on codes of the trajectory prediction shared by https://github.com/fedebecat and is modified to address our desired goals.
 
 # Setup
 ## Create a Virtual Environment
