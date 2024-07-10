@@ -2,8 +2,8 @@
   <tr>
     <td>
       <span style="color: Blue;">Blue: Represents the past trajectory of the object <br>
-      <span style="color: green;">Green</span> = Ground truth<br>
-      <span style="color: red;">Red</span> = Predict
+      <span style="color: green;">Green: Indicates the ground truth path the object followed.<br>
+      <span style="color: red;">Red: Shows the predicted future trajectory based on the model
     </td>
     <td><img src="/Images/video_vehicle_107.png" alt="Alt text 1" width="700"/></td>
   </tr>
