@@ -40,7 +40,7 @@ To train and evaluate your model, run the train.py script. You can choose betwee
 To visualize the predicted trajectories, run the plot_trajectory.py script:<br>
 `python plot_trajectory.py`<br>
 ## Pre-trained Models
-You can download pre-trained models from this link <br>
+You can download pre-trained models from this [link](https://drive.google.com/drive/u/0/folders/1lqrbjgdvg6ehVujU3rSiHxDdaPz701mR) <br>
 # Repository Structure
 `train.py`: Script to train and evaluate the model.<br>
 `plot_trajectory.py`: Script to plot the predicted trajectories.<br>
