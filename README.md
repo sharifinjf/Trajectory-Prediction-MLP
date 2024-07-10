@@ -39,8 +39,8 @@ To visualize the predicted trajectories, run the plot_trajectory.py script:<br>
 ## Pre-trained Models
 You can download pre-trained models from this link <br>
 # Repository Structure
-train.py: Script to train and evaluate the model.<br>
-plot_trajectory.py: Script to plot the predicted trajectories.<br>
+`train.py`: Script to train and evaluate the model.<br>
+`plot_trajectory.py`: Script to plot the predicted trajectories.<br>
 kitti_raw_data: Folder where the KITTI dataset should be placed.<br>
 
 # Contributions
