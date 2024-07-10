@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td style="border: none;">[**Your text goes here**] </td>
-<td><img src="/Images/video_vehicle_107.png" alt="Alt text 1" width="600"/></td>
+<td><img src="/Images/video_vehicle_107.png" alt="Alt text 1" width="600"/> form=SKPBOT&q=Your%20text%20goes%20here)</td>
 <td>    </td>
 </tr>
 <tr>
