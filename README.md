@@ -1,3 +1,8 @@
+<p align="center">
+<img src="/Images/video_vehicle_107.png" alt="Alt text" width="700" height="600"/>
+</p>
+
+ 
  ![](/Images/video_vehicle_107.png)
  ![](/Images/Demo.gif)
 
